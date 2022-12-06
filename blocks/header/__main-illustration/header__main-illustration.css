@@ -1,7 +1,7 @@
 .header__main-illustration {
   width: 765px;
   height: 608px;
-  background: url(/images/header-image.png) no-repeat;
+  background: url(../../../images/header-image.png) no-repeat;
   background-size: cover;
   position: absolute;
   bottom: 0;
