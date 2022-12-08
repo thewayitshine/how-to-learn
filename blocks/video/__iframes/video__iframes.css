@@ -1,5 +1,6 @@
 .video__iframes {
   margin: 0;
+  padding: 0;
   display: flex;
   flex-direction: row;
   column-gap: 20px;
